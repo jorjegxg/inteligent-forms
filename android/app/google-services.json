@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202411345060",
+    "project_id": "inteligentforms",
+    "storage_bucket": "inteligentforms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202411345060:android:85ee73c04b0e13f6d2d231",
+        "android_client_info": {
+          "package_name": "gxg.frc.vsy.inteligent_forms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202411345060-lm9cvcl5hln7tdj6sp45fu42fvjbn883.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoLHwYs_d73QhtQOnh6yK-BDxbdSfh_AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202411345060-lm9cvcl5hln7tdj6sp45fu42fvjbn883.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
